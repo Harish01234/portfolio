@@ -5,8 +5,6 @@ import {
   IconBrandGithub,
   IconBrandLinkedin,
   IconBrandInstagram,
-  
-  IconExchange,
   IconHome,
   IconNewSection,
   IconTerminal2,
