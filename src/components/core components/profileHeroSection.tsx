@@ -14,7 +14,8 @@ const HeroSection: React.FC = () => {
 
             {/* Intro Text */}
             <div>
-                <h1 className="text-5xl font-bold mb-2 text-blue-400">Hello, I'm Harish</h1>
+            <h1 className="text-5xl font-bold mb-2 text-blue-400">Hello, I&apos;m Harish</h1>
+
                 <h2 className="text-3xl font-light mb-4 text-gray-300">
                     A Full-Stack Developer Focused on Scalable Web & Mobile Applications
                 </h2>
