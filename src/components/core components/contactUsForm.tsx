@@ -2,7 +2,7 @@
 'use client'
 import React, { useState } from 'react';
 import axios from 'axios';
-import { error } from 'console';
+
 const ContactUs = () => {
   const [email, setEmail] = useState('');
   const [message, setMessage] = useState('');
