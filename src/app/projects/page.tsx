@@ -1,21 +1,6 @@
 // This is your resume project's page
 const projectsData = [
-  {
-    title: 'Resume Project',
-    description: 'An interactive and detailed resume website to showcase my skills and projects.',
-    image: '/images/resume-project.png',  // Update the image path based on your project
-    techStack: ['Next.js', 'Tailwind CSS'],
-    liveLink: 'https://your-resume-live.com',
-    codeLink: 'https://github.com/your-username/resume-project',
-  },
-  {
-    title: 'Portfolio Website',
-    description: 'A colorful portfolio showcasing all my projects, skills, and contact details.',
-    image: '/images/portfolio.png',  // Another image example
-    techStack: ['Next.js', 'Styled-components'],
-    liveLink: 'https://your-portfolio.com',
-    codeLink: 'https://github.com/your-username/portfolio',
-  },
+  
   {
     title: 'Todolist',
     description: 'A to-do application using React with local storage for persistent data and Zustand for state management.',
@@ -31,7 +16,17 @@ const projectsData = [
     techStack: ['React', 'Express', 'Socket.IO', 'CORS'],
     liveLink: 'https://chatmate-frontend.vercel.app/',
     codeLink: 'https://github.com/Harish01234/chatmate-frontend.git',
+  },
+  {
+    title: 'FlexCount',
+    description: 'A fitness app where users can log their exercise reps, weights, and sets. It includes functionalities for adding, updating, and deleting workouts, with data stored in MongoDB for access across devices.',
+    image: '/flexcount.png', // Update the image path
+    techStack: ['React', 'MongoDB', 'Express', 'Node.js'],
+    liveLink: 'https://demo-nine-steel.vercel.app/main',
+    codeLink: 'https://github.com/Harish01234/flexcount.git',
   }
+  
+    
   
   
   // Add more projects similarly
